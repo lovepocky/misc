@@ -37,7 +37,7 @@ sbt主要有两种下载依赖的方式
 另一种是使用sbt插件[Coursier](https://github.com/alexarchambault/coursier)(推荐)   
 其下载文件保存在`~/.coursier/cache/`  
 
-全局使用coursier插件:
+全局使用coursier插件配置:
 - 在`~/.sbt/0.13/plugins/build.sbt`中加入`addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.0.0-M14")`
 
 ## sbt 代理配置
