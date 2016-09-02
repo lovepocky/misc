@@ -1,5 +1,5 @@
 # 目录
 
-# scala
+## scala
 - sbt
   - [sbt 配置](scala/sbt/sbt配置.md)
