@@ -39,6 +39,13 @@ sbt主要有两种下载依赖的方式
 
 全局使用coursier插件配置:
 - 在`~/.sbt/0.13/plugins/build.sbt`中加入`addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.0.0-M14")`
+- 关闭某项目中的coursier插件
+参见 [sbt文档](http://www.scala-sbt.org/0.13/docs/zh-cn/Using-Plugins.html)  
+example:
+```
+lazy val root = (project in file(".")).enablePlugins(PlayScala)
+    .disablePlugins(CoursierPlugin)
+```
 
 ## sbt 代理配置
 sbt 代理配置作为jvm options 使用, example:  
