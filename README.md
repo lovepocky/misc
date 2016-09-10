@@ -6,6 +6,7 @@
 
 ## osx
 - [osx配置](osx/osx配置.md)
+- [intellij配置](osx/intellij配置.md)
 
 ## swagger
 - codegen
