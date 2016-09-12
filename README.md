@@ -2,19 +2,19 @@
 
 ## scala
 - sbt
-  - [sbt 配置](scala/sbt/sbt配置.md)
+  - [sbt 配置](https://github.com/lovepocky/misc/blob/master/scala/sbt/sbt配置.md)
 - slick
-  - [slick codegen](scala/slick/slick_codegen配置.md)
-  - [slick with play framework](scala/slick/slick_with_play.md)
+  - [slick codegen](https://github.com/lovepocky/misc/blob/master/scala/slick/slick_codegen配置.md)
+  - [slick with play framework](https://github.com/lovepocky/misc/blob/master/scala/slick/slick_with_play.md)
 
 ## play framework
 
 
 
 ## osx
-- [osx配置](osx/osx配置.md)
-- [intellij配置](osx/intellij配置.md)
+- [osx配置](https://github.com/lovepocky/misc/blob/master/osx/osx配置.md)
+- [intellij配置](https://github.com/lovepocky/misc/blob/master/osx/intellij配置.md)
 
 ## swagger
 - codegen
-  - [play](swagger/codegen-play.md)
+  - [play](https://github.com/lovepocky/misc/blob/master/swagger/codegen-play.md)
