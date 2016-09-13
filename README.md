@@ -16,5 +16,4 @@
 - [intellij配置](https://github.com/lovepocky/misc/blob/master/osx/intellij配置.md)
 
 ## swagger
-- codegen
-  - [play](https://github.com/lovepocky/misc/blob/master/swagger/codegen-play.md)
+-  [swagger with play framework](https://github.com/lovepocky/misc/blob/master/swagger/codegen-play.md)
