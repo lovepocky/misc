@@ -16,3 +16,5 @@
   - generate
     - [intellij-swagger-codegen](https://github.com/jimschubert/intellij-swagger-codegen) `code` `doc`
     - [swagger-md](https://github.com/Springworks/swagger-md) `doc`
+- service
+  - [sosoapi](http://www.sosoapi.com/)
