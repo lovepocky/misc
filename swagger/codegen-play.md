@@ -11,8 +11,9 @@
 
   - [iheartradio/play-swagger](https://github.com/iheartradio/play-swagger) `注释route方式`
 - tools
-  - view
+  - view & use
     - [vs-swagger-viewer](https://github.com/arjun-g/vs-swagger-viewer) `推荐`
+    - postman import
   - generate
     - [intellij-swagger-codegen](https://github.com/jimschubert/intellij-swagger-codegen) `code` `doc`
     - [swagger-md](https://github.com/Springworks/swagger-md) `doc`

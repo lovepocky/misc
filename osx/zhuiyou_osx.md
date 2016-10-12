@@ -79,10 +79,11 @@
     - 搜狗输入法
     - atom
 1. ## 安装开发环境
+    - git配置
 
     - Intellij IDEA `IDE`
-
-    - git配置
+        - 配置
+            - ssh: `Preferences/Version Control/git/SSH executable`改为native(如果git使用ssh方式)
 
     - scala
         - 安装
