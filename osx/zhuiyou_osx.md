@@ -2,7 +2,7 @@
 
 ## todo list
 
-  - [x] 整理常用软件安装包
+  - [ ] 整理常用软件安装包
   - [ ] 保存`~/.ivy2/cache`和`~/.coursier/`中常用的包, 便于新机子拷贝
 
 1. ## 安装黑苹果系统
@@ -90,6 +90,7 @@
                 ```
                 brew install sbt
                 ```
+
                 配置sbt环境: [sbt配置](../scala/sbt/sbt配置.md)
             - scala
                 ```
