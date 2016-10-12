@@ -54,10 +54,12 @@
         - [介绍](http://brew.sh/)
         - 安装
             - homebrew
+
                 ```
                 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
                 ```
             - [brew-cask](https://ksmx.me/homebrew-cask-cli-workflow-to-install-mac-applications/)
+
                 ```
                 brew install brew-cask
                 ```
@@ -67,12 +69,14 @@
     - shuttle + sshpass `可选`
         - 介绍: ssh 工具
         - 安装
+
             ```
             brew cask install shuttle
             ```
     - qq
     - chrome
         - 安装
+
             ```
             brew cask install google-chrome
             ```
@@ -87,17 +91,20 @@
     - scala
         - 安装
             - sbt: scala工程构建工具
+
                 ```
                 brew install sbt
                 ```
 
                 配置sbt环境: [sbt配置](../scala/sbt/sbt配置.md)
             - scala
+
                 ```
                 brew install scala
                 ```
     - java
         - [安装](https://www.kancloud.cn/kancloud/ocds-guide-to-setting-up-mac/71035)
+
             ```
             brew cask install java
             ```
