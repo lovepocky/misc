@@ -45,11 +45,7 @@
     - ShadowsocksX `必须`
         - [介绍](https://shadowsocks.com/)
         - [安装](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-Help)
-        - 服务器配置
-            - 服务器ip:`45.78.32.102`
-            - 服务器端口: `443`
-            - 密码: `FXfcTAhMFX`
-            - 加密方式: `aes-256-cfb`
+        - 服务器配置: 用到的时候给
     - Homebrew `必须`
         - [介绍](http://brew.sh/)
         - 安装
