@@ -11,3 +11,6 @@
   apm install markdowwn-scroll-sync
    ```
   - 问题：这个preview的显示效果貌似和github上面不太一样，目前写的差不多了之后我会用`macdown`看一下实际效果
+
+# intellij - Markdown Support
+使用intellij 插件`Markdown Support`

@@ -15,5 +15,9 @@
 - [osx配置](https://github.com/lovepocky/misc/blob/master/osx/osx配置.md)
 - [intellij配置](https://github.com/lovepocky/misc/blob/master/osx/intellij配置.md)
 
+## 常用工具
+- git
+    - [git入门](https://github.com/lovepocky/misc/blob/master/cs/git/git入门.md)
+
 ## swagger
 -  [swagger with play framework](https://github.com/lovepocky/misc/blob/master/swagger/codegen-play.md)
