@@ -19,3 +19,5 @@
     - [swagger-md](https://github.com/Springworks/swagger-md) `doc`
 - service
   - [sosoapi](http://www.sosoapi.com/)
+- project - integrate
+    - [swagger-js](https://github.com/swagger-api/swagger-js) `javascript`
