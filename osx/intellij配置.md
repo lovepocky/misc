@@ -3,4 +3,6 @@
 
 键位|快捷键功能|备注
 ---|---|---
-option+option+arrow|多行编辑（扩展选择）|
+option+option+arrow|多行编辑（扩展选择）| 扩展选择时, 有两种情况, 分别是当前光标有选中字符和未选择字符
+shift+option+right_click|多行编辑(鼠标选择)|
+

@@ -20,4 +20,4 @@
     - [git入门](https://github.com/lovepocky/misc/blob/master/cs/git/git入门.md)
 
 ## swagger
--  [swagger with play framework](https://github.com/lovepocky/misc/blob/master/swagger/codegen-play.md)
+-  [swagger with play framework](https://github.com/lovepocky/misc/blob/master/swagger/swagger-play.md)

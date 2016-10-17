@@ -11,8 +11,13 @@
 
   - [iheartradio/play-swagger](https://github.com/iheartradio/play-swagger) `注释route方式`
 - tools
+  - editor
+    - intellij
+        - 可以使用structure查看文档结构
+        - 自动完成提示比atom的智能一些
   - view & use
-    - [vs-swagger-viewer](https://github.com/arjun-g/vs-swagger-viewer) `推荐`
+    - [vs-swagger-viewer](https://github.com/arjun-g/vs-swagger-viewer) `推荐` `开发时使用`
+    - [swagger-ui-viewer](https://github.com/slatteryjim/swagger-ui-viewer) `docker server`
     - postman import
   - generate
     - [intellij-swagger-codegen](https://github.com/jimschubert/intellij-swagger-codegen) `code` `doc`
