@@ -18,10 +18,10 @@
             - 调用`operation.controller` 传入请求参数`data: A`, 得到数据结果`Try[B]`
             - 处理operation返回值
     - `/operation`
-        - `/controller`
+        - `/business`
             - 与controller对应
             - 从使用需要->业务逻辑
-        - `/business`
+        - `/module`
             - 对应业务逻辑模块
             - 尽量少冗余, 高复用
     - `/component`
