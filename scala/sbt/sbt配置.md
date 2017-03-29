@@ -42,4 +42,5 @@ sbt -Dsbt.override.build.repos=false -DsocksProxyHost=127.0.0.1 -DsocksProxyPort
 ```
 具体参数则根据自己所使用的代理方式进行修改  
 配置来源: [sbt doc](http://www.scala-sbt.org/0.13/docs/Proxy-Repositories.html)
+### intellij idea 
 在使用intellij idea时，sbt的配置在Preferences -> Build Tools -> SBT -> JVM Options
